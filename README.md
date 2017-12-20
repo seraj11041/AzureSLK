@@ -19,3 +19,7 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindin
 LARGE FILES
 
 https://1drv.ms/f/s!AqlAyxNnRKwJhFRJdwpKGD0w1gbq
+
+API Management
+
+https://docs.microsoft.com/en-us/azure/api-management/

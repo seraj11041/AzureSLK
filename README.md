@@ -23,3 +23,4 @@ https://1drv.ms/f/s!AqlAyxNnRKwJhFRJdwpKGD0w1gbq
 API Management
 
 https://docs.microsoft.com/en-us/azure/api-management/
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-cache

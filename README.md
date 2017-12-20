@@ -10,3 +10,8 @@ https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-compari
 Azure functions triggers and bindings
 
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings
+
+
+LARGE FILES
+
+https://1drv.ms/f/s!AqlAyxNnRKwJhFRJdwpKGD0w1gbq

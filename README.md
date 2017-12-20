@@ -6,3 +6,7 @@ https://docs.microsoft.com/en-in/azure/iot-hub/iot-hub-csharp-csharp-getstarted#
 Stream Vs Storm
 
 https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-comparison-storm
+
+Azure functions triggers and bindings
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings

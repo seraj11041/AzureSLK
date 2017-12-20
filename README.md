@@ -1,5 +1,9 @@
 # AzureSLK
 
+Service Fabric intro
+https://channel9.msdn.com/Blogs/Azure/Azure-Service-Fabric
+
+
 IoT device simulation
 https://docs.microsoft.com/en-in/azure/iot-hub/iot-hub-csharp-csharp-getstarted#create-a-device-identity
 
